@@ -1,5 +1,5 @@
 👋 Hi, I’m Barath  
-🚀 Building AI & ML Products | LLM Fine-Tuning | Autonomous Data Systems  
+🚀 Building & Shipping AI/ML Products | LLM Fine-Tuning | Autonomous Data Systems  
 
 🔍 **Interests:**  
 - Generative models for data analytics, RL, and multimodal AI  
