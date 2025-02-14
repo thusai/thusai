@@ -1,4 +1,4 @@
-👋 Hi, I’m @barat-paim  
+👋 Hi, I’m Barath  
 🚀 Building AI & ML Products | LLM Fine-Tuning | Autonomous Data Systems  
 
 🔍 **Interests:**  
@@ -11,7 +11,8 @@
 - Reinforcement learning applications in sports agent modeling  
 
 ⚡ **Background:**  
-- IIT/IIM | 2x Product roles (Late-stage → IPO)  
+- CS, Data Science, MBA (IIM)
+- 2x Product roles (Late-stage → IPO)  
 - Currently exploring AI-first product opportunities  
 
 📫 **Reach me at:** [barat.paim@gmail.com](mailto:barat.paim@gmail.com)  
