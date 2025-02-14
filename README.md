@@ -15,4 +15,4 @@
 - 2x Product roles (Late-stage → IPO)  
 - Currently exploring AI-first product opportunities  
 
-📫 **Reach me at:** [barat.paim@gmail.com](mailto:barat.paim@gmail.com)  
+📫 **Reach me at:** [trybarath@gmail.com](mailto:trybarath@gmail.com)  
