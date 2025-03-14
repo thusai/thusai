@@ -1,22 +1,10 @@
-# 👋 Hey, I’m Barath  
-🚀 **Building AI systems that think, plan, and execute**  
+👋 Hey, I’m Barath.
 
-I work at the intersection of **AI workflows, automation, and intelligent agents**—bridging the gap between **LLM reasoning and real-world execution.**  
+I’m a PM who builds—experimenting with AI (LLMs, agent workflows, automation) by shipping actual demos.
+I build to test ideas quickly, validate what works, and then collaborate with engineers to scale.
 
-## 🔍 What I’m Into:  
-- **AI Orchestration & Multi-Agent Systems** – Let’s make AI work together, not just in silos.  
-- **LLM Execution & API Automation** – AI that doesn’t just predict, but actually **does** things.  
-- **AI Infrastructure & Scaling** – From fine-tuning models to deploying inference pipelines.  
-- **RL for Task Planning & Decision-Making** – Teaching AI how to think ahead.  
+Previously built AI/ML observability tools at AWS (SageMaker), and analytics products in Banking.
 
-## 🤝 Open to Collaborate On:  
-- **LLM-powered task automation & API execution**  
-- **Scalable AI architectures & inference optimizations**  
-- **Experimental RL applications (sports, finance, workflows, etc.)**  
+This GitHub is my playground—expect raw code, working experiments, and continuous learning.
 
-## ⚡ About Me:  
-- **Cofounder, DojoLM** → AI orchestration & execution  
-- **Ex-AWS AI/ML** → Model monitoring & inference pipelines  
-- **Background in AI Research, Data Science & Business (IIM MBA)**  
-
-📫 **Reach me at:** trybarath@gmail.com  
+📫 Reach me: trybarath@gmail.com
