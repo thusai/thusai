@@ -8,12 +8,14 @@ Previously built AI/ML observability tools at AWS (SageMaker), fraud detection s
 This GitHub is my playground—expect raw code, working experiments, and continuous learning.
 
 some active projects:
-- **[Cordless](https://github.com/thusai/cordless)** — A CLI-native user loop tester for product teams, powered by LangGraph and Faker
+- **Aston** - Test engine for Cursor/Codex/Claude
+
+some old projects:
+- **[Cordless](https://github.com/thusai/cordless)** — A CLI-native user loop tester for product teams
+- **AgentTrace** — FinOps for LLM-native development (eval, training, inference cost tracking)
+- **LinkedOut** — Rethinking social graphs by engineering trust-weighted referrals, visibility loops, and team formation
 - **[LLM-Act](https://github.com/thusai/llm-act)** — Transform LLM responses into structured, executable CLI workflows
 - **[deeptype.online](https://deeptype.online/)** — Typing sprints, death mode, and custom panels for the Monkeytype community
 
-some old projects:
-- **AgentTrace** — FinOps for LLM-native development (eval, training, inference cost tracking)
-- **LinkedOut** — Rethinking social graphs by engineering trust-weighted referrals, visibility loops, and team formation
 
 📫 Reach me: trybarath@gmail.com
