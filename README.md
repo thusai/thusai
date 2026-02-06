@@ -1,14 +1,11 @@
 #### Currently:
-Making agents murmur at Wildreason
+- *Jan 20, 2026* **Released alpha version** Lyric - long running autonomous agents 
+- *Feb 01, 2026* **Tested** Lyric on building a gift registry
+- *Feb 07, 2026* **Testing** Lyric on building a gift registry that includes calling physical stores for partnership
 
 #### Past:
-- Cambium: context compression to bring down inference cost and token usage by 90%
-- Prolang: agent communication protocols using single digits (experimental, failed)
-- Couple of other things... including research assistanship 
+- Agent teams for claude code that can coordinate and complete long coding workflows
+- Model finetuning for specialized compliance workflows
+- Context compression to bring down inference cost and token usage by 90%
 
-#### Way Past (Pre-Covid):
-- MBA, and some private banking for few years
-- Founding hyperlocal delivery, and some selling 
-- Grassroot work in primary education
-
-📫 Reach me: barat@wildreason.com
+Email: barathsingh@gmail.com
